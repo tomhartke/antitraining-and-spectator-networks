@@ -223,32 +223,32 @@ Similar concepts:
   (see paper: https://arxiv.org/pdf/2202.05262.pdf)
 
 General interpretability and visualization:
-* OpenAI clip and microscope
-  * 	Microscope: https://openai.com/blog/microscope/ 
-  * 	Clip: https://openai.com/blog/clip/
-* Circuits 
-  * 	https://distill.pub/2020/circuits/zoom-in/
-* Feature visualization 
-  * 	https://distill.pub/2017/feature-visualization/
-* Toy models of superposition  
-  * 	https://transformer-circuits.pub/2022/toy_model/index.html#motivation
+* OpenAI clip and microscope 
+  * Microscope: https://openai.com/blog/microscope/
+  * Clip: https://openai.com/blog/clip/
+* Circuits
+  * https://distill.pub/2020/circuits/zoom-in/
+* Feature visualization
+  * https://distill.pub/2017/feature-visualization/
+* Toy models of superposition
+  * https://transformer-circuits.pub/2022/toy_model/index.html#motivation
 * Mathematical framework for transformer circuits
-  * 	https://transformer-circuits.pub/2021/framework/index.html 
+  * https://transformer-circuits.pub/2021/framework/index.html 
 * In context learning and induction heads
-  * 	https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html 
+  * https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html 
 * Mechanistic interpretability of grokking
   * https://arxiv.org/pdf/2301.05217.pdf
 
 Other potentially relevant papers:
 * Merging models via permutation symmetries (Git re-basin)
-  * 	https://arxiv.org/pdf/2209.04836.pdf
+  * https://arxiv.org/pdf/2209.04836.pdf
 * Adaptive dropout paper
-  * 	https://proceedings.neurips.cc/paper/2013/file/7b5b23f4aadf9513306bcd59afb6e4c9-Paper.pdf
-* Estimating Information Flow in Deep Neural Networks - paper title 
-  * 	https://arxiv.org/pdf/1810.05728.pdf
+  * https://proceedings.neurips.cc/paper/2013/file/7b5b23f4aadf9513306bcd59afb6e4c9-Paper.pdf
+* Estimating Information Flow in Deep Neural Networks - paper title
+  * https://arxiv.org/pdf/1810.05728.pdf
 * Opening the Black Box of Deep Neural Networks via Information
-  * 	https://arxiv.org/abs/1703.00810
+  * https://arxiv.org/abs/1703.00810
 * Neural networks efficiently learn low-dimensional representations with SGD
-  * 	https://arxiv.org/pdf/2209.14863.pdf
+  * https://arxiv.org/pdf/2209.14863.pdf
 * Infogans
   * https://arxiv.org/pdf/1606.03657.pdf
