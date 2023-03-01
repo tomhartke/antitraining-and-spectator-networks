@@ -1,7 +1,6 @@
 # Thoughts on building interpretable Neural Networks
 
-Disclaimer: these ideas haven't been tested in experiments yet (nor have I thoroughly searched the literature).
-This is on my to do list, but sometimes it's useful to brainstorm without constraints for maximum creativity before testing. 
+This is a brainstorming document, not a project (yet). I plan to run experiments, but want to discuss and clarify the ideas as well.
 
 ## Motivation
 This is a list of motivating questions to consider, before I propose some solutions.
@@ -260,7 +259,7 @@ Similar concepts:
 to 0, rather than randomized).
 * A neat paper regarding interpretability and information manipulation is ROME (Rank one model editing).
   * It contains the concept of randomizing then restoring information to see when success reappears
-    (see paper: https://arxiv.org/pdf/2202.05262.pdf)
+    (see paper: https://arxiv.org/pdf/2202.05262.pdf, "Locating and Editing Factual Associations in GPT")
 
 General interpretability and visualization:
 * OpenAI clip and microscope 
@@ -276,14 +275,14 @@ General interpretability and visualization:
   * https://transformer-circuits.pub/2021/framework/index.html 
 * In context learning and induction heads
   * https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html 
-* Mechanistic interpretability of grokking
-  * https://arxiv.org/pdf/2301.05217.pdf
+* Mechanistic interpretability of grokking 
+  * https://arxiv.org/pdf/2301.05217.pdf ("Progress measures for grokking via mechanistic interpretability")
 
 Other potentially relevant papers (haven't read in depth):
 * Merging models via permutation symmetries (Git re-basin)
-  * https://arxiv.org/pdf/2209.04836.pdf
+  * https://arxiv.org/pdf/2209.04836.pdf ("Git Re-Basin: Merging Models modulo Permutation Symmetries")
 * Adaptive dropout paper
-  * https://proceedings.neurips.cc/paper/2013/file/7b5b23f4aadf9513306bcd59afb6e4c9-Paper.pdf
+  * https://proceedings.neurips.cc/paper/2013/file/7b5b23f4aadf9513306bcd59afb6e4c9-Paper.pdf ("Adaptive dropout for training deep neural networks")
 * Estimating Information Flow in Deep Neural Networks
   * https://arxiv.org/pdf/1810.05728.pdf
 * Opening the Black Box of Deep Neural Networks via Information
